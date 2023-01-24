@@ -8,3 +8,6 @@ This project examines the algorithm implementation for effective routing in orde
 
 The simulation is done in Matlab and the attached code can be used for future purpose to optimise more and more in the field of underwater wireless sensor networks.
 This Project is performed at Bennett University,Greater Noida on 17 June 2020.
+
+A detailed blog for the same project can be found in the below link.
+https://routingprotocolforuswn.blogspot.com/2020/06/routing-algorithms-for-energy.html
